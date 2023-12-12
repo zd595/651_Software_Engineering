@@ -1,4 +1,4 @@
-ECE 651 Team 7: World conquering game (Risk)
+ECE 651 Team 7: World conquering game
 =======================================
 
 ![pipeline](https://gitlab.oit.duke.edu/xh123/ece651-sp23-team7-risk/badges/master/pipeline.svg)
